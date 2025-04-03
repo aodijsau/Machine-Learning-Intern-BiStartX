@@ -10,17 +10,17 @@ This repository contains all six tasks completed as part of my **remote internsh
 
 ## 📅 Internship Timeline & Tasks
 
-✅ **Week 1:** Predicting House Prices using **Linear Regression**
+✅ **Task 1:** Predicting House Prices using **Linear Regression**
 
-✅ **Week 2:** Classification of Iris Species using **Logistic Regression**
+✅ **Task 2:** Classification of Iris Species using **Logistic Regression**
 
-✅ **Week 3:** Predicting Diabetes using **Decision Trees**
+✅ **Task 3:** Predicting Diabetes using **Decision Trees**
 
-✅ **Week 4:** Customer Segmentation using **K-Means Clustering**
+✅ **Task 4:** Customer Segmentation using **K-Means Clustering**
 
-✅ **Week 5:** Predicting Employee Attrition using **Random Forest**
+✅ **Task 5:** Predicting Employee Attrition using **Random Forest**
 
-✅ **Week 6:** Stock Price Prediction using **Time Series Analysis**
+✅ **Task 6:** Stock Price Prediction using **Time Series Analysis**
 
 ## 🚀 Technologies Used
 - Python 🐍
